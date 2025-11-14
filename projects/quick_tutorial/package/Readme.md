@@ -1,0 +1,2 @@
+Analysis
+Pada bagian ini saya mempelajari bagaimana cara membuat struktur proyek Pyramid yang benar dengan konsep Python package dan Python project. Intinya, saya mulai membungkus kode aplikasi saya ke dalam bentuk paket yang lebih rapi dan bisa di-install. Secara keseluruhan, bagian ini membantu saya memahami bahwa membuat aplikasi Pyramid itu bukan cuma soal menulis endpoint, tapi juga memahami bagaimana struktur proyek Python yang modern bekerja.
